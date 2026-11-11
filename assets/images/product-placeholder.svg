@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" fill="none">
+  <rect width="640" height="480" rx="28" fill="#EEF2FF"/>
+  <path d="M206 161a24 24 0 0 1 24-24h180a24 24 0 0 1 24 24v158a24 24 0 0 1-24 24H230a24 24 0 0 1-24-24V161Z" fill="#fff" stroke="#C7D2FE" stroke-width="8"/>
+  <circle cx="276" cy="199" r="20" fill="#A5B4FC"/>
+  <path d="m226 308 78-74 49 45 38-35 47 64H226Z" fill="#818CF8"/>
+  <text x="320" y="391" text-anchor="middle" fill="#64748B" font-family="Arial,sans-serif" font-size="20">Gambar produk</text>
+</svg>
